@@ -1,0 +1,41 @@
+body {
+  background-color: cadetblue;
+}
+
+.rt1 {
+  text-align: center;
+  height: 400px;
+  width: 400px;
+  border: 2px solid black;
+  margin: auto;
+  margin-top: 100px;
+  border-radius: 50px;
+}
+
+/* .tb{
+  border: 2px;
+  border-style: solid;
+} */
+table,
+thead,
+tbody {
+  border: 1;
+  border-style: solid;
+}
+
+button {
+  border-radius: 20px;
+  height: 30px;
+  width: 100px;
+  border: none;
+  color: red;
+  margin: 20px;
+  /* background-color: ; */
+  font-weight: bold;
+  margin-left: 10px;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 100px;
+}
