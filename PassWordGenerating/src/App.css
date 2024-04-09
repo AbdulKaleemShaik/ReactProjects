@@ -1,0 +1,106 @@
+.back-color {
+  height: 50px;
+  width: 600px;
+  border: 2px solid black;
+  border-radius: 20px;
+  margin-left: 250px;
+  padding-top: 9px;
+  padding-left: 90px;
+  bottom: 90px;
+  position: absolute;
+}
+body{
+  overflow: hidden;
+}
+
+button {
+  width: 70px;
+  height: 30px;
+  font-weight: bold;
+  border-radius: 30px;
+  border: 2px solid black;
+  margin-right: 15px;
+  margin-top: 4px;
+}
+
+button:hover {
+  transform: rotate();
+}
+
+/* .full-body {
+  height: 100vh;
+} */
+
+h1 {
+  text-align: center;
+  padding: 10px;
+}
+
+.in {
+  border: 2px solid black;
+  border-right: 0px solid black;
+  height: 53px;
+  width: 600px;
+  color: red;
+  margin: auto;
+  border-radius: 20px 0px 0px 20px;
+  margin-top: 15px;
+  margin-left: 300px;
+}
+
+
+
+.b {
+  height: 59px;
+  width: 100px;
+  margin-left: 0px;
+  border-radius: 0px 20px 20px 0px;
+  border: 2px solid black;
+  border-left: 0px;
+  font-weight: bold;
+  background-color: blue;
+  margin-top: 0px;
+}
+
+.complete {
+  margin-top: 150px;
+}
+
+.second-label {
+  margin-top: 30px;
+  margin-left: 250px;
+  padding-left: 5px;
+}
+
+.len {
+  margin-left: 15px;
+}
+
+/* .num{
+  margin-left: 15px;
+} */
+
+.back-color {
+  margin-left: 200px;
+  margin-top: 100px;
+  border: 2px solid black;
+  width: 900px;
+  height: 50px;
+  border-radius: 20px;
+}
+
+.but {
+  width: 70px;
+  height: 40px;
+  font-weight: bold;
+  border-radius: 30px;
+  border: 2px solid black;
+  margin-right: 15px;
+  margin-top: 4px;
+  margin-left: 15px;
+}
+
+.full-body {
+  height: 100vh;
+  overflow: auto;
+}
